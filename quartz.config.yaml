@@ -110,11 +110,6 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
-    enabled: false
-    options:
-      theme: default
-      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -272,6 +267,17 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: minimal
+      mode: both
+      themeFonts: true
+    order: 10
+  - source: "@quartz-themes/minimal"
+    enabled: true
+    options: {}
     order: 50
 layout:
   groups:
