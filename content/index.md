@@ -1,13 +1,15 @@
 ---
 created: 2026-11-05T21:13
-modified: 2026-11-15T17:20
+modified: 2026-11-15T17:29
 publish: true
 title: 首页
 ---
 # 余超
 
 - 岭南师范学院 物理科学与技术学院 专任教师
-- 电子邮箱： yuchao\[at\]lingnan.edu.cn
+- 电子邮箱： yuchao \[at\] lingnan.edu.cn
+
+![[2013_cern.jpg|200x200]]
 
 ## 教学
 
