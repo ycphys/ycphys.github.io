@@ -1,7 +1,7 @@
 ---
 created: 2026-11-12T07:23
-modified: 2026-11-12T07:43
-share: true
+modified: 2026-11-15T14:33
+publish: true
 title: 科学微课设计与制作
 ---
 ## 希沃白板

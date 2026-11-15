@@ -1,24 +1,28 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: 余超的个人空间
+  pageTitleSuffix: ""    # Une pensée écrite est morte. J'suis pas nul, j'suis infiniment petit
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
-  locale: en-US
+    provider: null    # 'plausible' or 'google' etc.
+  locale: zh-CN
   baseUrl: ycphys.github.io
+  publishAssets: referenced
+  drafts:
+    publish: false
   ignorePatterns:
     - private
     - templates
     - .obsidian
+    - .*
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
+    fontOrigin: selfHosted    # Quartz download googleFonts at build time and serve them from the site # or local / googleFonts
+    cdnCaching: false
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Microsoft YaHei    # Schibsted Grotesk
+      body: Microsoft YaHei
+      code: JetBrains Mono    # Source Sans Pro / IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -78,10 +82,10 @@ plugins:
       enableYouTubeEmbed: true
       enableVideoEmbed: true
       enableCheckbox: true
-    order: 30
+    order: 40
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
-    order: 40
+    order: 30
   - source: "@quartz-community/table-of-contents"
     enabled: true
     order: 50
@@ -108,7 +112,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-community/explicit-publish"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
@@ -215,8 +219,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/ycphys/ycphys.github.io
+        岭南师范学院 物理与科学技术学院: https://p.lingnan.edu.cn/
     layout:
       position: footer
       priority: 50
@@ -259,7 +263,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: tokyo-night
+      theme: things
       mode: both
       themeFonts: true
     order: 10
