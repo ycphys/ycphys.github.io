@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="648.5001220703125" height="301.50006103515625" style="background-color: rgb(236, 254, 255);"><title>思维导图</title><g class="smm-container" transform="matrix(1,0,0,1,-599.1339782714844,-269.61610412597656)"><g class="smm-line-container"><path d="M 660.6339721679688,419.6160888671875 C 729.1339721679688,419.6160888671875 729.1339721679688,295.6160888671875 797.6339721679688,295.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ffd549" fill="none"></path><path d="M 660.6339721679688,419.6160888671875 C 729.1339721679688,419.6160888671875 729.1339721679688,408.1160888671875 797.6339721679688,408.1160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 660.6339721679688,419.6160888671875 C 729.1339721679688,419.6160888671875 729.1339721679688,532.1160888671875 797.6339721679688,532.1160888671875" stroke-dasharray="none" stroke-width="3" stroke="#6be18d" fill="none"></path><path d="M 940.6339721679688,408.1160888671875 C 967.6339721679688,408.1160888671875 967.6339721679688,361.6160888671875 994.6339721679688,361.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 940.6339721679688,408.1160888671875 C 967.6339721679688,408.1160888671875 967.6339721679688,454.6160888671875 994.6339721679688,454.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 1082.6339721679688,361.6160888671875 C 1109.6339721679688,361.6160888671875 1109.6339721679688,330.6160888671875 1136.6339721679688,330.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 1082.6339721679688,361.6160888671875 C 1109.6339721679688,361.6160888671875 1109.6339721679688,361.6160888671875 1136.6339721679688,361.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 1082.6339721679688,361.6160888671875 C 1109.6339721679688,361.6160888671875 1109.6339721679688,392.6160888671875 1136.6339721679688,392.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 1082.6339721679688,454.6160888671875 C 1109.6339721679688,454.6160888671875 1109.6339721679688,423.6160888671875 1136.6339721679688,423.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 1082.6339721679688,454.6160888671875 C 1109.6339721679688,454.6160888671875 1109.6339721679688,454.6160888671875 1136.6339721679688,454.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 1082.6339721679688,454.6160888671875 C 1109.6339721679688,454.6160888671875 1109.6339721679688,485.6160888671875 1136.6339721679688,485.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#ff887e" fill="none"></path><path d="M 940.6339721679688,532.1160888671875 C 967.6339721679688,532.1160888671875 967.6339721679688,516.6160888671875 994.6339721679688,516.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#6be18d" fill="none"></path><path d="M 940.6339721679688,532.1160888671875 C 967.6339721679688,532.1160888671875 967.6339721679688,547.6160888671875 994.6339721679688,547.6160888671875" stroke-dasharray="none" stroke-width="3" stroke="#6be18d" fill="none"></path></g><g class="smm-outer-frame-container"></g><g class="smm-node-container"><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,607.6339721679688,398.6160888671875)"><path d="
+      M19.5,0
+      L83.5,0
+      A19.5,19.5 0 0,1 83.5,39 
+      L19.5,39
+      A19.5,19.5 0 0,1 19.5,0
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="#27dee8" stroke-dasharray="none" stroke-width="3" stroke="#1a1a1a"></path><g transform="matrix(1,0,0,1,16.5,6.5)"><g data-width="73" data-height="29" data-offsetx="0"><foreignObject width="73" height="29" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 24px; font-weight: bold; font-style: normal; text-decoration: none; color: rgb(26, 26, 26); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>三角形</span></p></div><style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  </style></foreignObject></g></g><rect width="110" height="46" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,797.6339721679688,278.1160888671875)"><path d="
+      M16,0
+      L214,0
+      A16,16 0 0,1 214,32 
+      L16,32
+      A16,16 0 0,1 16,0
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="#ebffbb" stroke-dasharray="none" stroke-width="3" stroke="#333333"></path><g transform="matrix(1,0,0,1,16.49999237060547,6.5)"><g data-width="200" data-height="22" data-offsetx="0"><foreignObject width="200" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>三角形的相关定义和概念</span></p></div></foreignObject></g></g><rect width="237" height="39" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,797.6339721679688,390.6160888671875)"><path d="
+      M16,0
+      L124,0
+      A16,16 0 0,1 124,32 
+      L16,32
+      A16,16 0 0,1 16,0
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="#ebffbb" stroke-dasharray="none" stroke-width="3" stroke="#333333"></path><rect fill="transparent" width="20" height="35" x="143" y="0"></rect><g transform="matrix(1,0,0,1,16.499996185302734,6.5)"><g data-width="110" data-height="22" data-offsetx="0"><foreignObject width="110" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>三角形的分类</span></p></div></foreignObject></g></g><rect width="147" height="39" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,994.6339721679688,348.1160888671875)"><path d="
+      M5,0
+      L83,0
+      C83,0 88,0 88,5
+      L88,22
+      C88,22 88,27 83,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><rect fill="transparent" width="20" height="27" x="88" y="0"></rect><g transform="matrix(1,0,0,1,14.999998092651367,5)"><g data-width="58" data-height="17" data-offsetx="0"><foreignObject width="58" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>按角分类</span></p></div></foreignObject></g></g><rect width="92" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1136.6339721679688,317.1160888671875)"><path d="
+      M5,0
+      L96,0
+      C96,0 101,0 101,5
+      L101,22
+      C101,22 101,27 96,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="71" data-height="17" data-offsetx="0"><foreignObject width="71" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>锐角三角形</span></p></div></foreignObject></g></g><rect width="105" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1136.6339721679688,348.1160888671875)"><path d="
+      M5,0
+      L96,0
+      C96,0 101,0 101,5
+      L101,22
+      C101,22 101,27 96,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="71" data-height="17" data-offsetx="0"><foreignObject width="71" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>直角三角形</span></p></div></foreignObject></g></g><rect width="105" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1136.6339721679688,379.1160888671875)"><path d="
+      M5,0
+      L96,0
+      C96,0 101,0 101,5
+      L101,22
+      C101,22 101,27 96,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="71" data-height="17" data-offsetx="0"><foreignObject width="71" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>钝角三角形</span></p></div></foreignObject></g></g><rect width="105" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,994.6339721679688,441.1160888671875)"><path d="
+      M5,0
+      L83,0
+      C83,0 88,0 88,5
+      L88,22
+      C88,22 88,27 83,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><rect fill="transparent" width="20" height="27" x="88" y="0"></rect><g transform="matrix(1,0,0,1,14.999998092651367,5)"><g data-width="58" data-height="17" data-offsetx="0"><foreignObject width="58" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>按边分类</span></p></div></foreignObject></g></g><rect width="92" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1136.6339721679688,410.1160888671875)"><path d="
+      M5,0
+      L96,0
+      C96,0 101,0 101,5
+      L101,22
+      C101,22 101,27 96,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="71" data-height="17" data-offsetx="0"><foreignObject width="71" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>等边三角形</span></p></div></foreignObject></g></g><rect width="105" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1136.6339721679688,441.1160888671875)"><path d="
+      M5,0
+      L96,0
+      C96,0 101,0 101,5
+      L101,22
+      C101,22 101,27 96,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="71" data-height="17" data-offsetx="0"><foreignObject width="71" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>等腰三角形</span></p></div></foreignObject></g></g><rect width="105" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1136.6339721679688,472.1160888671875)"><path d="
+      M5,0
+      L96,0
+      C96,0 101,0 101,5
+      L101,22
+      C101,22 101,27 96,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="71" data-height="17" data-offsetx="0"><foreignObject width="71" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>普通三角形</span></p></div></foreignObject></g></g><rect width="105" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,797.6339721679688,514.6160888671875)"><path d="
+      M16,0
+      L124,0
+      A16,16 0 0,1 124,32 
+      L16,32
+      A16,16 0 0,1 16,0
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="#ebffbb" stroke-dasharray="none" stroke-width="3" stroke="#333333"></path><rect fill="transparent" width="20" height="35" x="143" y="0"></rect><g transform="matrix(1,0,0,1,16.499996185302734,6.5)"><g data-width="110" data-height="22" data-offsetx="0"><foreignObject width="110" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>三角形的性质</span></p></div></foreignObject></g></g><rect width="147" height="39" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,994.6339721679688,503.1160888671875)"><path d="
+      M5,0
+      L139,0
+      C139,0 144,0 144,5
+      L144,22
+      C144,22 144,27 139,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,14.999996185302734,5)"><g data-width="114" data-height="17" data-offsetx="0"><foreignObject width="114" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>三角形三边的关系</span></p></div></foreignObject></g></g><rect width="148" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,994.6339721679688,534.1160888671875)"><path d="
+      M5,0
+      L153,0
+      C153,0 158,0 158,5
+      L158,22
+      C158,22 158,27 153,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="128" data-height="17" data-offsetx="0"><foreignObject width="128" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>三角形的内外角关系</span></p></div></foreignObject></g></g><rect width="162" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g></g><g class="smm-associative-line-container"></g><g class="smm-other-container"></g><g class="smm-chat-dialog-container"></g></g><style>
+  /* 鼠标hover和激活时渲染的矩形 */
+  .smm-hover-node{
+    display: none;
+    opacity: 0.6;
+    stroke-width: 1;
+  }
+
+  .smm-node:not(.smm-node-dragging):hover .smm-hover-node{
+    display: block;
+  }
+
+  .smm-node.active .smm-hover-node, .smm-node-highlight .smm-hover-node{
+    display: block;
+    opacity: 1;
+    stroke-width: 2;
+  }
+
+  .smm-text-node-wrap, .smm-expand-btn-text {
+    user-select: none;
+  }
+
+  .smm-desctext-node-wrap {
+    word-break: break-all;
+    user-select: none;
+  }
+
+      .smm-richtext-node-wrap {
+        word-break: break-all;
+        user-select: none;
+      }
+
+      .ql-editor .ql-align-left, 
+      .smm-richtext-node-wrap .ql-align-left {
+        text-align: left;
+      }
+
+      .smm-richtext-node-wrap .ql-align-right {
+        text-align: right;
+      }
+
+      .smm-richtext-node-wrap .ql-align-center {
+        text-align: center;
+      }
+      </style></svg>

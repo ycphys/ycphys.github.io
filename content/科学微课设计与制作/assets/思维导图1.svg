@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="777" height="210" style="background-color: rgb(244, 255, 254);"><title>思维导图1</title><g class="smm-container" transform="matrix(1,0,0,1,-585.3333282470703,-388.93231201171875)"><g class="smm-line-container"><path d="M 658.8333740234375,493.93231201171875 Q 692.3333740234375,431.5323120117188 826.3333740234375,415.93231201171875" stroke-dasharray="none" stroke-width="3" stroke="#8cf0e7" fill="none"></path><path d="M 658.8333740234375,493.93231201171875 Q 692.3333740234375,493.93231201171875 826.3333740234375,493.93231201171875" stroke-dasharray="none" stroke-width="3" stroke="#4ad2ff" fill="none"></path><path d="M 658.8333740234375,493.93231201171875 Q 692.3333740234375,556.3323120117187 826.3333740234375,571.9323120117188" stroke-dasharray="none" stroke-width="3" stroke="#41a8f3" fill="none"></path><path d="M 947.5333740234375,415.93231201171875 Q 955.0933740234375,415.93231201171875 985.3333740234375,415.93231201171875" stroke-dasharray="none" stroke-width="3" stroke="#8cf0e7" fill="none"></path><path d="M 947.5333740234375,415.93231201171875 L 931.3333740234375,415.93231201171875" fill="none" stroke-dasharray="none" stroke-width="3" stroke="#8cf0e7"></path><path d="M 947.5333740234375,493.93231201171875 Q 955.0933740234375,493.93231201171875 985.3333740234375,493.93231201171875" stroke-dasharray="none" stroke-width="3" stroke="#4ad2ff" fill="none"></path><path d="M 947.5333740234375,493.93231201171875 L 931.3333740234375,493.93231201171875" fill="none" stroke-dasharray="none" stroke-width="3" stroke="#4ad2ff"></path><path d="M 947.5333740234375,571.9323120117188 Q 955.0933740234375,571.9323120117188 985.3333740234375,571.9323120117188" stroke-dasharray="none" stroke-width="3" stroke="#41a8f3" fill="none"></path><path d="M 947.5333740234375,571.9323120117188 L 931.3333740234375,571.9323120117188" fill="none" stroke-dasharray="none" stroke-width="3" stroke="#41a8f3"></path></g><g class="smm-outer-frame-container"></g><g class="smm-node-container"><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,595.3333740234375,474.43231201171875)"><path d="
+      M5,0
+      L122,0
+      C122,0 127,0 127,5
+      L127,34
+      C127,34 127,39 122,39
+      L5,39
+      C5,39 0,39 0,34
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="#24d0e9" stroke-dasharray="none" stroke-width="0" stroke=""></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="97" data-height="29" data-offsetx="0"><foreignObject width="97" height="29" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 24px; font-weight: bold; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>微课设计</p></div><style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  </style></foreignObject></g></g><rect width="131" height="43" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,826.3333740234375,398.93231201171875)"><path d="
+      M5,0
+      L98,0
+      C98,0 103,0 103,5
+      L103,27
+      C103,27 103,32 98,32
+      L5,32
+      C5,32 0,32 0,27
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#ffffff" stroke-dasharray="none" stroke-width="2" stroke="#8cf0e7"></path><rect fill="transparent" width="20" height="34" x="105" y="0"></rect><g transform="matrix(1,0,0,1,16,6)"><g data-width="73" data-height="22" data-offsetx="0"><foreignObject width="73" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: bold; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>确定选题</p></div></foreignObject></g></g><rect width="109" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,985.3333740234375,402.43231201171875)"><path d="
+      M5,0
+      L124,0
+      C124,0 129,0 129,5
+      L129,22
+      C129,22 129,27 124,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="99" data-height="17" data-offsetx="0"><foreignObject width="99" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>首要环节和起点</p></div></foreignObject></g></g><rect width="133" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,826.3333740234375,476.93231201171875)"><path d="
+      M5,0
+      L98,0
+      C98,0 103,0 103,5
+      L103,27
+      C103,27 103,32 98,32
+      L5,32
+      C5,32 0,32 0,27
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#ffffff" stroke-dasharray="none" stroke-width="2" stroke="#4ad2ff"></path><rect fill="transparent" width="20" height="34" x="105" y="0"></rect><g transform="matrix(1,0,0,1,16,6)"><g data-width="73" data-height="22" data-offsetx="0"><foreignObject width="73" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: bold; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>教学设计</p></div></foreignObject></g></g><rect width="109" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,985.3333740234375,480.43231201171875)"><path d="
+      M5,0
+      L362,0
+      C362,0 367,0 367,5
+      L367,22
+      C367,22 367,27 362,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="337" data-height="17" data-offsetx="0"><foreignObject width="337" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>围绕教学目标，对微课中各个要素进行总体分析和组合</p></div></foreignObject></g></g><rect width="371" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,826.3333740234375,554.9323120117188)"><path d="
+      M5,0
+      L98,0
+      C98,0 103,0 103,5
+      L103,27
+      C103,27 103,32 98,32
+      L5,32
+      C5,32 0,32 0,27
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#ffffff" stroke-dasharray="none" stroke-width="2" stroke="#41a8f3"></path><rect fill="transparent" width="20" height="34" x="105" y="0"></rect><g transform="matrix(1,0,0,1,16,6)"><g data-width="73" data-height="22" data-offsetx="0"><foreignObject width="73" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: bold; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>形成脚本</p></div></foreignObject></g></g><rect width="109" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,985.3333740234375,558.4323120117188)"><path d="
+      M5,0
+      L124,0
+      C124,0 129,0 129,5
+      L129,22
+      C129,22 129,27 124,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="99" data-height="17" data-offsetx="0"><foreignObject width="99" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>微课制作的蓝本</p></div></foreignObject></g></g><rect width="133" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g></g><g class="smm-associative-line-container"></g><g class="smm-other-container"></g><g class="smm-chat-dialog-container"></g></g><style>
+  /* 鼠标hover和激活时渲染的矩形 */
+  .smm-hover-node{
+    display: none;
+    opacity: 0.6;
+    stroke-width: 1;
+  }
+
+  .smm-node:not(.smm-node-dragging):hover .smm-hover-node{
+    display: block;
+  }
+
+  .smm-node.active .smm-hover-node, .smm-node-highlight .smm-hover-node{
+    display: block;
+    opacity: 1;
+    stroke-width: 2;
+  }
+
+  .smm-text-node-wrap, .smm-expand-btn-text {
+    user-select: none;
+  }
+
+  .smm-desctext-node-wrap {
+    word-break: break-all;
+    user-select: none;
+  }
+
+      .smm-richtext-node-wrap {
+        word-break: break-all;
+        user-select: none;
+      }
+
+      .ql-editor .ql-align-left, 
+      .smm-richtext-node-wrap .ql-align-left {
+        text-align: left;
+      }
+
+      .smm-richtext-node-wrap .ql-align-right {
+        text-align: right;
+      }
+
+      .smm-richtext-node-wrap .ql-align-center {
+        text-align: center;
+      }
+      </style></svg>

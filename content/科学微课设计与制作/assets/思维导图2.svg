@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="940.5" height="373" style="background-color: rgb(255, 255, 255);"><title>思维导图2</title><g class="smm-container" transform="matrix(1,0,0,1,-323.83338928222656,-465.43231201171875)"><g class="smm-line-container"><path d="M 404.3333740234375,588.2323120117187 L 404.3333740234375,619.4323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 829.8333740234375,588.2323120117187 L 829.8333740234375,619.4323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 1167.3333740234375,588.2323120117187 L 1167.3333740234375,619.4323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 794.0833740234375,515.4323120117188 L 794.0833740234375,588.2323120117187" fill="none" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path><path d="M 404.3333740234375,588.2323120117187 L 1167.3333740234375,588.2323120117187" fill="none" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path><path d="M 376.1333740234375,690.9323120117188 L 404.3333740234375,690.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 376.1333740234375,721.9323120117188 L 404.3333740234375,721.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 376.1333740234375,752.9323120117188 L 404.3333740234375,752.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 376.1333740234375,783.9323120117188 L 404.3333740234375,783.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 376.1333740234375,814.9323120117188 L 404.3333740234375,814.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 376.1333740234375,653.4323120117188 L 376.1333740234375,814.9323120117188" fill="none" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path><path d="M 801.6333740234375,690.9323120117188 L 829.8333740234375,690.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 801.6333740234375,721.9323120117188 L 829.8333740234375,721.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 801.6333740234375,752.9323120117188 L 829.8333740234375,752.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 801.6333740234375,783.9323120117188 L 829.8333740234375,783.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 801.6333740234375,653.4323120117188 L 801.6333740234375,783.9323120117188" fill="none" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path><path d="M 1146.3333740234375,690.9323120117188 L 1167.3333740234375,690.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 1146.3333740234375,721.9323120117188 L 1167.3333740234375,721.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 1146.3333740234375,752.9323120117188 L 1167.3333740234375,752.9323120117188" stroke-dasharray="none" stroke-width="2" stroke="#333333" fill="none"></path><path d="M 1146.3333740234375,653.4323120117188 L 1146.3333740234375,752.9323120117188" fill="none" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path></g><g class="smm-outer-frame-container"></g><g class="smm-node-container"><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,729.5833740234375,474.43231201171875)"><path d="
+      M5,0
+      L122,0
+      C122,0 127,0 127,5
+      L127,34
+      C127,34 127,39 122,39
+      L5,39
+      C5,39 0,39 0,34
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#ffd613" stroke-dasharray="none" stroke-width="2" stroke="#1f2021"></path><g transform="matrix(1,0,0,1,16,6)"><g data-width="97" data-height="29" data-offsetx="0"><foreignObject width="97" height="29" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 24px; font-weight: bold; font-style: normal; text-decoration: none; color: rgb(45, 43, 35); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>构成元素</span></p></div><style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  </style></foreignObject></g></g><rect width="133" height="45" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,333.8333740234375,619.4323120117188)"><path d="
+      M5,0
+      L134,0
+      C134,0 139,0 139,5
+      L139,27
+      C139,27 139,32 134,32
+      L5,32
+      C5,32 0,32 0,27
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#d1ebf8" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path><rect fill="transparent" width="141" height="20" x="0" y="34"></rect><g transform="matrix(1,0,0,1,16,6)"><g data-width="109" data-height="22" data-offsetx="0"><foreignObject width="109" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(113, 123, 128); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>画面（视觉）</span></p></div></foreignObject></g></g><rect width="145" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,404.3333740234375,677.4323120117188)"><path d="
+      M5,0
+      L246,0
+      C246,0 251,0 251,5
+      L251,22
+      C251,22 251,27 246,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="221" data-height="17" data-offsetx="0"><foreignObject width="221" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>⭐ 干净、简洁、符合视觉认知规律</p></div></foreignObject></g></g><rect width="255" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,404.3333740234375,708.4323120117188)"><path d="
+      M5,0
+      L162,0
+      C162,0 167,0 167,5
+      L167,22
+      C167,22 167,27 162,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="137" data-height="17" data-offsetx="0"><foreignObject width="137" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>⭐ 讲授者可以不出现</p></div></foreignObject></g></g><rect width="171" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,404.3333740234375,739.4323120117188)"><path d="
+      M5,0
+      L82,0
+      C82,0 87,0 87,5
+      L87,22
+      C87,22 87,27 82,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="57" data-height="17" data-offsetx="0"><foreignObject width="57" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>拍摄画面</span></p></div></foreignObject></g></g><rect width="91" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,404.3333740234375,770.4323120117188)"><path d="
+      M5,0
+      L82,0
+      C82,0 87,0 87,5
+      L87,22
+      C87,22 87,27 82,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="57" data-height="17" data-offsetx="0"><foreignObject width="57" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>演示文稿</span></p></div></foreignObject></g></g><rect width="91" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,404.3333740234375,801.4323120117188)"><path d="
+      M5,0
+      L153,0
+      C153,0 158,0 158,5
+      L158,22
+      C158,22 158,27 153,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="128" data-height="17" data-offsetx="0"><foreignObject width="128" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>其他视觉元素（UI）</span></p></div></foreignObject></g></g><rect width="162" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,759.3333740234375,619.4323120117188)"><path d="
+      M5,0
+      L134,0
+      C134,0 139,0 139,5
+      L139,27
+      C139,27 139,32 134,32
+      L5,32
+      C5,32 0,32 0,27
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#d1ebf8" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path><rect fill="transparent" width="141" height="20" x="0" y="34"></rect><g transform="matrix(1,0,0,1,16,6)"><g data-width="109" data-height="22" data-offsetx="0"><foreignObject width="109" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(113, 123, 128); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>声音（听觉）</span></p></div></foreignObject></g></g><rect width="145" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,829.8333740234375,677.4323120117188)"><path d="
+      M5,0
+      L176,0
+      C176,0 181,0 181,5
+      L181,22
+      C181,22 181,27 176,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="151" data-height="17" data-offsetx="0"><foreignObject width="151" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>⭐ 清晰饱满、自然亲切</span></p></div></foreignObject></g></g><rect width="185" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,829.8333740234375,708.4323120117188)"><path d="
+      M5,0
+      L110,0
+      C110,0 115,0 115,5
+      L115,22
+      C115,22 115,27 110,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="85" data-height="17" data-offsetx="0"><foreignObject width="85" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>语音同步讲解</span></p></div></foreignObject></g></g><rect width="119" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,829.8333740234375,739.4323120117188)"><path d="
+      M5,0
+      L82,0
+      C82,0 87,0 87,5
+      L87,22
+      C87,22 87,27 82,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="57" data-height="17" data-offsetx="0"><foreignObject width="57" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>背景音乐</span></p></div></foreignObject></g></g><rect width="91" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,829.8333740234375,770.4323120117188)"><path d="
+      M5,0
+      L68,0
+      C68,0 73,0 73,5
+      L73,22
+      C73,22 73,27 68,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="43" data-height="17" data-offsetx="0"><foreignObject width="43" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>特效音</span></p></div></foreignObject></g></g><rect width="77" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1114.8333740234375,619.4323120117188)"><path d="
+      M5,0
+      L98,0
+      C98,0 103,0 103,5
+      L103,27
+      C103,27 103,32 98,32
+      L5,32
+      C5,32 0,32 0,27
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#d1ebf8" stroke-dasharray="none" stroke-width="2" stroke="#333333"></path><rect fill="transparent" width="105" height="20" x="0" y="34"></rect><g transform="matrix(1,0,0,1,16,6)"><g data-width="73" data-height="22" data-offsetx="0"><foreignObject width="73" height="22" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(113, 123, 128); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>辅助元素</span></p></div></foreignObject></g></g><rect width="109" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1167.3333740234375,677.4323120117188)"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,22
+      C59,22 59,27 54,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="29" data-height="17" data-offsetx="0"><foreignObject width="29" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>特效</span></p></div></foreignObject></g></g><rect width="63" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1167.3333740234375,708.4323120117188)"><path d="
+      M5,0
+      L82,0
+      C82,0 87,0 87,5
+      L87,22
+      C87,22 87,27 82,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="57" data-height="17" data-offsetx="0"><foreignObject width="57" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>画面缩放</span></p></div></foreignObject></g></g><rect width="91" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" style="cursor: default;" transform="matrix(1,0,0,1,1167.3333740234375,739.4323120117188)"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,22
+      C59,22 59,27 54,27
+      L5,27
+      C5,27 0,27 0,22
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0,0)" fill="transparent" stroke-dasharray="none" stroke-width="0" stroke="transparent"></path><g transform="matrix(1,0,0,1,15,5)"><g data-width="29" data-height="17" data-offsetx="0"><foreignObject width="29" height="17" x="0" y="0" style="line-height: 1.2; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(51, 51, 51); text-align: left;"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span>字幕</span></p></div></foreignObject></g></g><rect width="63" height="31" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g></g><g class="smm-associative-line-container"></g><g class="smm-other-container"></g><g class="smm-chat-dialog-container"></g></g><style>
+  /* 鼠标hover和激活时渲染的矩形 */
+  .smm-hover-node{
+    display: none;
+    opacity: 0.6;
+    stroke-width: 1;
+  }
+
+  .smm-node:not(.smm-node-dragging):hover .smm-hover-node{
+    display: block;
+  }
+
+  .smm-node.active .smm-hover-node, .smm-node-highlight .smm-hover-node{
+    display: block;
+    opacity: 1;
+    stroke-width: 2;
+  }
+
+  .smm-text-node-wrap, .smm-expand-btn-text {
+    user-select: none;
+  }
+
+  .smm-desctext-node-wrap {
+    word-break: break-all;
+    user-select: none;
+  }
+
+      .smm-richtext-node-wrap {
+        word-break: break-all;
+        user-select: none;
+      }
+
+      .ql-editor .ql-align-left, 
+      .smm-richtext-node-wrap .ql-align-left {
+        text-align: left;
+      }
+
+      .smm-richtext-node-wrap .ql-align-right {
+        text-align: right;
+      }
+
+      .smm-richtext-node-wrap .ql-align-center {
+        text-align: center;
+      }
+      </style></svg>
