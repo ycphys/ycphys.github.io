@@ -1,3 +1,35 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+@font-face {
+  font-family: "Microsoft YaHei";
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url(./static/fonts/msyh.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: "Microsoft YaHei";
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  src: url(./static/fonts/msyhbd.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url(./static/fonts/JetBrainsMono-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  src: url(./static/fonts/JetBrainsMono-Bold.woff2) format('woff2');
+}
