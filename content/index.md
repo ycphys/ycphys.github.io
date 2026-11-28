@@ -7,7 +7,6 @@ filename: index
 ---
 # 余超
 
-![[./assets/2013_cern.jpg|right|200]]
 - 岭南师范学院 物理科学与技术学院 专任教师
 - 电子邮箱： yuchao \[at\] lingnan.edu.cn
 
@@ -38,4 +37,4 @@ filename: index
 - **[[大学物理B 25-26-2.public|2025学年春季学期]]**（大学物理B）
     - 班级：25生物与医学创新班、25制药2班、25制药3班
 
-
+![[./assets/2013_cern.jpg|200]]
